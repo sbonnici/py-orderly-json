@@ -16,5 +16,8 @@ setup(
         'orderlyjson.jsonschema',
         'orderlyjson.jsonschema.tests'
     ],
-    package_data={ 'orderlyjson': ['tools'] }
+    package_data={
+        '': ['README.md',],
+        'orderlyjson': ['tools',],
+    }
 )

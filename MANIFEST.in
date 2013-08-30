@@ -1,1 +1,1 @@
-include orderlyjson/OrderlyJSON.g orderlyjson/OrderlyJSON.tokens
+include README.md orderlyjson/OrderlyJSON.g orderlyjson/OrderlyJSON.tokens
